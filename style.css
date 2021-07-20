@@ -1,0 +1,64 @@
+body{
+    font-family: 'Special Elite', cursive;
+    background-color: #f5dbda;
+}
+.header_div img{
+    height: 100px;
+    width: 100px;
+}
+.header_div{
+    background: white;
+    color: red;
+}
+.main_div{
+    background: #f5dbda;
+    padding: 10px;
+    margin-top: 15px;
+    border:3px white;
+}
+.main_div label{
+    background: white;
+    width: 310px;
+    padding: 10px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px white;
+}
+#camera, #result{
+    border: 2px solid white;
+    width: 620px;
+    height: 600px;
+    box-shadow: 5px 5px 18px white;
+    background-color: #f5dbda;
+}
+.main_div button{
+    width:310px;
+    font-size: 16px;
+    box-shadow: 5px 5px 18px white;
+    border: 1px solid;
+}
+.footer_div{
+    height: 10px;
+}
+#footer_img{
+    width: 70px;
+}
+.footer_h4{
+    background-color: white;
+    box-shadow: white 5px 5px 18px;
+    width:75%;
+    margin-left: 1%;
+    border-radius: 25px;
+}
+.copy_right_footer{
+    text-align: center;
+    position: fixed;
+    font-size: 15px;
+    background-color: lightgray;
+    bottom: 0;
+    width:100%
+}
+#result_img{
+    width: 610px !important;
+    height: 475px !important;
+    margin-top: 60px;
+}
